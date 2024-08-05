@@ -85,17 +85,10 @@ Moves the queue forward after a customer is serviced.
 
 Displays the total number of customers, average service time, and average queue length at the end of the simulation.
 
-## Running the Program
-
-To compile and run the program, use the following commands:
-
-```sh
-cobc -x queue-simulation.cob
-./queue-simulation
-
 ## Example Output
 TOTAL CUSTOMERS: 00100
 AVERAGE SERVICE TIME: 0000000044.94
 AVERAGE QUEUE LENGTH: 00000.01
 
 ## Screenshot
+![queue-simulation](https://github.com/user-attachments/assets/e8c68948-034f-43a2-8d59-8dc927e1984f)
